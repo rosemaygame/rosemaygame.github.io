@@ -268,3 +268,15 @@ visiblemeasures.com, 1020, RESELLER
 webeyemob.com, 80029, RESELLER
 zmaticoo.com, 5135704, RESELLER
 pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 165116, RESELLER, 5d62403b186f2ace
+sharethrough.com, k5wdgasp, RESELLER, d53b998a7bd4ecd2
+media.net, 8cu12aq1y, RESELLER
+video.unrulymedia.com, 436487936, RESELLER
+pubmatic.com, 164119, RESELLER, 5d62403b186f2ace
+voisetech.com, 1066, RESELLER
+smartadserver.com, 4467, RESELLER
+lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 2464, RESELLER
+onetag.com, 5d1628750185ace, RESELLER
