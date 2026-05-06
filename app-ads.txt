@@ -1,3 +1,4 @@
+google.com, pub-7917607150802268, DIRECT, f08c47fec0942fa0
 google.com, pub-8189872865183147, DIRECT, f08c47fec0942fa0
 lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
