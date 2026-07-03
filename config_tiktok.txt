@@ -1,6 +1,6 @@
 {
     "block": false,
-    "message": "",
+    "message": "1",
     "no_ads_price": 0,
     "no_ads_recharge_tier_id": "",
     "spell_gift_cooldown": 0,
