@@ -1,9 +1,9 @@
 {
-    "block": true,
-    "message": "test",
-    "no_ads_price": 100,
-    "no_ads_recharge_tier_id": "tier_100",
-    "spell_gift_cooldown": 600,
-    "fengshui_output_interval_seconds": 7200,
-    "fengshui_ad_speedup_cooldown_seconds": 600
+    "block": false,
+    "message": "",
+    "no_ads_price": 0,
+    "no_ads_recharge_tier_id": "",
+    "spell_gift_cooldown": 0,
+    "fengshui_output_interval_seconds": 0,
+    "fengshui_ad_speedup_cooldown_seconds": 0
 }
